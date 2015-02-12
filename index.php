@@ -14,7 +14,7 @@ and open the template in the editor.
         <?php
        
         ?>
-        
+        <h1>asd</h1>
         <script src="jquery-1.11.2.min.js"></script>
         <script src="JS1.js"></script>
     </body>
